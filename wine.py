@@ -102,4 +102,4 @@ elif choice == "Sales Report":
         st.info("No sales yet.")
 
 
-streamlit run wine_mart_app.py
+
